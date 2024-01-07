@@ -10,9 +10,7 @@ Konto Administratora
 Dane dostępowe do konta administratora są dostępne u osoby zarządzającej projektem. Prosimy nie umieszczać ani nie udostępniać tych informacji publicznie ze względów bezpieczeństwa.
 
 Login: admin@gmail.com
-Hasło: [Dostępne u zarządzającego projektem]
-Tworzenie Nowych Kont Użytkowników
-Nowe konta użytkowników mogą być tworzone wyłącznie przez administratora. Proces ten jest zabezpieczeniem przed nieautoryzowanym dostępem i zapewnia lepsze zarządzanie systemem.
+Hasło: AdminP@ssw0rd123!
 
 #Technologie
 -C#
