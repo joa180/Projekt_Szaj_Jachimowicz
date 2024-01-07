@@ -1,7 +1,7 @@
 # Wypożyczalnia Książek
 
 ## Wprowadzenie
-Ten projekt pierwotnie zaplanowany jako blog, został zmieniony na system wypożyczalni książek. Zmiana ta wynikała z problemów w realizacji pierwotnego pomysłu i koncepcji, a także z identyfikacji większego zapotrzebowania na system zarządzania wypożyczaniem książek.
+Początkowo planowaliśmy stworzyć blog, gdzie użytkownicy niezalogowani mogliby czytać treści, a zalogowani mieliby możliwość ich edycji. Jednak ta koncepcja wydawała się zbyt prosta. Gdy próbowaliśmy dodać więcej funkcji, napotkaliśmy problemy koncepcyjne, które przerosły nasze oczekiwania. Z tego powodu zmieniliśmy projekt na system wypożyczalni książek. Nie jest on jeszcze doskonały, ale udało nam się go opracować w czasie, który mieliśmy po zmianie koncepcji.
 
 ## Funkcje Systemu
 - Wypożyczanie i zwracanie książek
