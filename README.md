@@ -26,7 +26,7 @@ Przykładowe ID użytkownika do sprawdzenia : 5d31a024-4e84-4f5e-b86b-04b10d7955
 Projekt został skonfigurowany do używania wbudowanej bazy danych, co oznacza, że nie wymaga instalacji zewnętrznych systemów bazodanowych. Uruchomienie aplikacji jest proste i wymaga tylko kilku kroków:
 
 1. **Pobranie projektu:**
-   - Sklonuj repozytorium projektu za pomocą Git lub pobierz je jako archiwum ZIP i rozpakuj na swoim komputerze.
+   - Sklonuj repozytorium projektu za pomocą Git lub pobierz je jako archiwum ZIP i rozpakuj na swoim komputerze. Przenieś plik PDF w innew miejsce , lub po przeczytaniu dokumentacji usuń go.
 
 2. **Otwarcie projektu:**
    - Otwórz folder projektu w swoim IDE (np. Visual Studio).
