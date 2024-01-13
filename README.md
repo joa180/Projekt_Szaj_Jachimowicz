@@ -29,7 +29,7 @@ Projekt został skonfigurowany do używania wbudowanej bazy danych, co oznacza, 
    - Sklonuj repozytorium projektu za pomocą Git lub pobierz je jako archiwum ZIP i rozpakuj na swoim komputerze. Przenieś plik PDF w innew miejsce , lub po przeczytaniu dokumentacji usuń go.
 
 2. **Otwarcie projektu:**
-   - Otwórz folder projektu w swoim IDE (np. Visual Studio).
+   - Otwórz folder projektu i przez dwuklik uruchom plik LibSys.sln
 
 3. **Uruchomienie aplikacji:**
    - Uruchom aplikację z poziomu swojego IDE. IDE powinno automatycznie skompilować projekt i uruchomić wbudowany serwer (np. IIS Express w Visual Studio), otwierając aplikację w domyślnej przeglądarce.
